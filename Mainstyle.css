@@ -7,6 +7,15 @@ body{
     font-family:"Segoe UI",sans-serif;
     background:#dff6f2;
     color:#333;
+    opacity: 0;
+    transform: translateY(8px);
+    animation: smoothLoad 0.5s ease forwards;
+}
+@keyframes smoothLoad {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 body>div{
     padding:40px 60px;
@@ -98,6 +107,7 @@ button,input[type="submit"]{
     border-radius:6px;
     border:none;
     cursor:pointer;
+    box-shadow:0 4px 8px #045951;
 }
 .facilities{
     display:grid;
