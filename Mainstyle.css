@@ -8,3 +8,11 @@ body{
     background:#dff6f2;
     color:#333;
 }
+.navbar{
+    display:flex;
+    justify-content:center;
+    gap:40px;
+    background:#fff;
+    padding:15px;
+    border-bottom:1px solid #ddd;
+}
