@@ -48,3 +48,17 @@ button,input[type="submit"]{
     grid-template-columns:repeat(3,1fr);
     gap:25px;
 }
+.card{
+    background:#fff;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.08);
+}
+.room-card{
+    background:#fff;
+    border-radius:12px;
+    margin:20px auto;
+    padding:20px;
+    max-width:900px;
+    box-shadow:0 5px 12px rgba(0,0,0,0.1);
+}
