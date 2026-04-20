@@ -65,3 +65,26 @@ button,input[type="submit"]{
     max-width:900px;
     box-shadow:0 5px 12px rgba(0,0,0,0.1);
 }
+.room-info{
+    margin-top:12px;
+    line-height:1.5;
+}
+.room-info h2{
+    margin-bottom:6px;
+    font-size:20px;
+}
+.room-info p{
+    font-size:14px;
+    margin:6px 0;
+}
+.room-info p b{
+    color:#028174;
+}
+.room-info ul{
+    margin:8px 0;
+    padding-left:18px;
+    font-size:14px;
+}
+.room-info button{
+    margin-top:10px;
+}
