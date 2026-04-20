@@ -20,4 +20,11 @@ body{
     text-decoration:none;
     color:#028174;
     font-weight:bold;
+    font-size: 120%;
+    background-color: #dff6f2;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 3px;
+    padding-bottom: 6px;
+    border-radius: 10px;
 }
