@@ -40,6 +40,7 @@ hr{
 }
 h1{
     font-size:36px;
+    text-shadow: #005d5365 1px 1px 4.5px;
 }
 h2{
     color:#028174;
@@ -50,6 +51,7 @@ img{
     height:220px;
     object-fit:cover;
     border-radius:8px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.08);
 }
 .gallery{
     display:grid;
@@ -63,6 +65,7 @@ img{
     aspect-ratio:1/1;
     object-fit:cover;
     border-radius:10px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.08);
 }
 .room-highlight{
     display:grid;
@@ -76,6 +79,7 @@ img{
     height:200px;
     object-fit:cover;
     border-radius:10px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.08);
 }
 footer{
     background:#028174;
@@ -87,6 +91,7 @@ footer{
     font-weight: 600;
 }
 button,input[type="submit"]{
+    margin-top: 10px;
     background:#028174;
     color:#fff;
     padding:12px 20px;
