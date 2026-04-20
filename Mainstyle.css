@@ -28,3 +28,10 @@ body{
     padding-bottom: 6px;
     border-radius: 10px;
 }
+h1{
+    font-size:36px;
+}
+h2{
+    color:#028174;
+    margin-bottom:10px;
+}
