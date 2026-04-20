@@ -105,3 +105,16 @@ button,input[type="submit"]{
     font-size: 120%; 
     margin-top:20px;
 }
+fieldset{
+    background:#fff;
+    border:none;
+    padding:20px;
+    border-radius:10px;
+    margin-bottom:20px;
+}
+input,select,textarea{
+    width:100%;
+    padding:10px;
+    border-radius:6px;
+    border:1px solid #ccc;
+}
