@@ -35,3 +35,12 @@ h2{
     color:#028174;
     margin-bottom:10px;
 }
+button,input[type="submit"]{
+    background:#028174;
+    color:#fff;
+    padding:12px 20px;
+    border-radius:6px;
+    border:none;
+    cursor:pointer;
+}
+
